@@ -3,18 +3,6 @@
 
 **thatdevhassan/thatdevhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on a React app
-- 🌱 I’m currently learning html5, css3 javascript, React
-- 👯 I’m looking to collaborate on web based projects
-- 🤔 I’m looking for help with react
-- 💬 Ask me about html5,css3, javascript, React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h2> Hey there! I'm thatdevhassan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -48,3 +36,5 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.instagram.com/ig.geek.code/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:thatdevhassan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+# script credit : devSouvik
