@@ -16,7 +16,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | javascript | Ruby |  
+- 💻 &nbsp; Python | JavaScript | Ruby | C# 
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Illustrator | Photoshop | OpenShot
