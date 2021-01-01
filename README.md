@@ -35,5 +35,5 @@
 </p>
 <hr/>
 
-<a href="https://thecodingneuron.com">My Blog</a>
+<h3 align=center><a href="https://thecodingneuron.com">My Blog</a></h3>
 
