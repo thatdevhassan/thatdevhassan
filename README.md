@@ -19,7 +19,7 @@
 - 💻 &nbsp; Python | JavaScript | Ruby | C# 
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; Illustrator | Photoshop | Figma
 
 
 
